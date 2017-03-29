@@ -1,0 +1,63 @@
+# Run a manual game.
+java -ea ataxx.Main
+manual red
+manual blue
+start
+g1-g2
+g7-f6
+g2-f2
+f6-e7
+g2-f1
+a1-b2
+f2-e3
+f6-e6
+f1-e1
+b2-b1
+e1-d2
+e6-f7
+f2-g3
+a1-a2
+d2-d1
+e6-d4
+d2-d3
+b2-c2
+f1-e2
+b2-c1
+d4-c3
+a2-c4
+b2-a2
+c3-b3
+b1-a3
+c1-b1
+g3-e5
+c3-b4
+e5-e6
+d1-f3
+e1-d1
+e3-d5
+e7-d6
+d3-f5
+d2-d3
+b4-c5
+f7-g6
+f3-g5
+e7-d7
+g2-f3
+d3-e3
+f6-e4
+g7-f6
+f3-f4
+f2-g3
+g5-g4
+d7-c6
+c4-b5
+a7-b6
+b4-a6
+c5-b4
+b6-a4
+c5-b6
+a4-a5
+a7-b7
+a5-c7
+a6-a5
+@red...Red wins\.
